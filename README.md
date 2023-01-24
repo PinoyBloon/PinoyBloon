@@ -5,7 +5,8 @@
 
 <p><img align="right" src="https://github.com/PinoyBloon/PinoyBloon/blob/main/Eat%20Sleep%20Code.gif" alt="pinoybloon" width="420px" /></p>
 
-- 🌱 I’m currently learning Mobile App Development and Web Development
+- 🌱 I’m currently learning Mobile App Development and
+<br>Web Development
 
 - 📫 Reach me through this email:  **mochikhlasulakbar@gmail.com**
 
