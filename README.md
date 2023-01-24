@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Mobile App Development and Web Development
 
-- 📫 Reach me with this email:  **mochikhlasulakbar@gmail.com**
+- 📫 Reach me through this email:  **mochikhlasulakbar@gmail.com**
 
 - ⚡ Fun fact : I like cheese
 
