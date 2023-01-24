@@ -3,6 +3,8 @@
 
 <br>
 
+<p><img align="right" src="https://github.com/PinoyBloon/PinoyBloon/blob/main/Eat%20Sleep%20Code.gif" alt="pinoybloon" /></p>
+
 - 🌱 I’m currently learning Mobile App Development and Web Development
 
 - 📫 How to reach me **mochikhlasulakbar@gmail.com**
