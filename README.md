@@ -25,7 +25,7 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinoybloon&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pinoybloon" /></p>
 
 <br>
