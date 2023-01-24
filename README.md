@@ -1,11 +1,11 @@
 <h1 align="center">Hello,👋 I'm Akbar</h1>
 <h3 align="center">Proud Putera Batam Student</h3>
 
-- 🌱 I’m currently learning **Mobile App Development and Web Development**
+- 🌱 I’m currently learning Mobile App Development and Web Development
 
-- 📫 How to reach me **mochikhlasulakbar@gmail.com**
+- 📫 How to reach me mochikhlasulakbar@gmail.com
 
-- ⚡ Fun fact **I like cheese**
+- ⚡ Fun fact : I like cheese
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
